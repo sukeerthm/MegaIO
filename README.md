@@ -29,7 +29,7 @@
   12. Go to File manager and validate file is restored 
 
 #AUTOMATION TEST 2- IMPLEMENTATION
-  1.Use Chromeoptions to change the download directory to "linuxDownloads"
+  1. Use Chromeoptions to change the download directory to "linuxDownloads"
   2. Navigate to the https://mega.nz/desktop and select linux platform
   3. Before downloading the versions, empty the download directory "linuxDownloads"
   4. Select each version and download
@@ -40,5 +40,3 @@
 
 #HTML REPORT & Recording
 ![image](https://user-images.githubusercontent.com/15187298/171116264-7981eb27-12a7-4386-bdb6-4a283e20f0c4.png)
-
-TestExecution Recording 'TestCase-Execution.mp4' is also added to the repository
