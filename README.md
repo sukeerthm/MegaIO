@@ -38,7 +38,7 @@
 #Reports - HTML,XML,JSON
   1. HTML,XML and JSON reports are generated using TestRunner class and can be found at - /target/cucumber-reports
 
-#HTML REPORT & Recording
+#HTML REPORT
 
 ![image](https://user-images.githubusercontent.com/15187298/171117343-42dbee61-8505-4347-b002-d8bfd24bf0a5.png)
 
