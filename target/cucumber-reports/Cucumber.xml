@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="150.265">
+    <testcase classname="Create file, Delete File and Restore file from rubbish bin" name="Create text file (a.txt), Delete it and verify it can be restored from Rubbish Bin" time="50.987">
+        <system-out><![CDATA[Given I login to mega website using email "sukeerthkumar@gmail.com" and password "sukeerth".passed
+Then I create new text file "a" with content "megatesting"..................passed
+And I verify file "a" is created............................................passed
+Then I Delete the file "a"..................................................passed
+And I verify File "a" is deleted............................................passed
+And I navigate to rubbish bin folder........................................passed
+And I restore the deleted file "a" from rubbish bin folder..................passed
+And I verify file "a" is restored successfully..............................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Validate all the Linux Distros in the list are downloadable" name="validate all the Linux Distros in the list are downloadable" time="98.833">
+        <system-out><![CDATA[Given I navigate to "https://mega.nz/desktop"...............................passed
+Then I Click on button "Linux"..............................................passed
+And validate all the Linux versions in the list are downloadable............passed
+]]></system-out>
+    </testcase>
+</testsuite>
