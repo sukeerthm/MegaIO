@@ -19,7 +19,7 @@
   1. Go to the website
   2. Navigate to Loginpage, enter details and login
   3. Right-click on select 'New File'
-  4. On the dialog box enter file name 'a.txt' and click create (Will also check if file exists)
+  4. On the dialog box enter file name 'a.txt' and click create (Will also check for duplicate files)
   6. Enter the content 'megaTesting' and save. 
   7. Close the file editor
   8. Validate file is created
@@ -39,4 +39,6 @@
   1. HTML,XML and JSON reports are generated using TestRunner class and can be found at - /target/cucumber-reports
 
 #HTML REPORT & Recording
-![image](https://user-images.githubusercontent.com/15187298/171116264-7981eb27-12a7-4386-bdb6-4a283e20f0c4.png)
+
+![image](https://user-images.githubusercontent.com/15187298/171117343-42dbee61-8505-4347-b002-d8bfd24bf0a5.png)
+
