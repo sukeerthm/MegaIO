@@ -4,9 +4,14 @@
   1. java 
   2. Maven
   3. IDE (intelliJ)
+  4. Cucumber and Gherkins plugins for the IDE 
+
+#How to execute the tests
+1. Install the above required tools.
+2. Its a maven project, so use the POM file to load the dependencies
+3. Then use TestRunner class to run all the tests or use feature files to run individual tests
 
 #Project Structure
-  1. Its a maven project, Use the POM file to load the dependencies  
   1. Feature files are in - /src/main/resources
   2. StepDefinitions & Page Objects - /src/main/java
   3. TestRunner class to run tests and create reports - /src/main/java
